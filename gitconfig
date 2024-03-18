@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = bounan.oceane@orange.fr
+	name = Oceane BOUNAN
